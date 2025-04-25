@@ -4,7 +4,7 @@ This project focuses on **data cleaning and preprocessing** of a LinkedIn datase
 
 ---
 
-## 🧠 Objective
+## Objective
 
 To clean and structure raw job listing data scraped from LinkedIn, making it ready for further **exploratory data analysis**, **visualizations**, and **insights extraction**.
 
@@ -13,7 +13,7 @@ To clean and structure raw job listing data scraped from LinkedIn, making it rea
 
 ---
 
-## 📊 Dataset Summary
+## Dataset Summary
 
 - File: `Business_analyst_job_listings_linkedin.csv`
 - Total Rows: 921
@@ -22,7 +22,7 @@ To clean and structure raw job listing data scraped from LinkedIn, making it rea
 
 ---
 
-## 🛠️ Work Done
+## Work Done
 
 ### 1️⃣ Dataset Loading
 - Used `pandas` to load the CSV file into a DataFrame.
@@ -51,7 +51,7 @@ To clean and structure raw job listing data scraped from LinkedIn, making it rea
 
 ---
 
-## 🧰 Libraries Used
+##Libraries Used
 
 - `pandas` – for data handling
 - `matplotlib` – for visualization
@@ -59,7 +59,7 @@ To clean and structure raw job listing data scraped from LinkedIn, making it rea
 
 ---
 
-## ✅ How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
